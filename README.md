@@ -1,1 +1,1 @@
-# getting-started-with-threejs
+# ThreeJS Wave Simulation Assignment
