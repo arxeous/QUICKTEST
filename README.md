@@ -1,2 +1,1 @@
-# QUICKTEST
-To be deleted
+# getting-started-with-threejs
